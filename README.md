@@ -50,39 +50,29 @@ Before starting, ensure that you have the following software installed on your m
 
 Clone the project to your local machine using the following Git command:
 
-\`\`\`bash
 git clone https://github.com/yourusername/file2url.git
-\`\`\`
 
 ### 2. Navigate to the Project Directory
 
 Go into the project directory:
 
-\`\`\`bash
 cd file2url
-\`\`\`
 
 ### 3. Install Required Dependencies
 
 Install all the necessary dependencies:
 
-\`\`\`bash
 npm install
-\`\`\`
 
 ### 4. Start the Development Server
 
 Launch the development server:
 
-\`\`\`bash
 npm run dev
-\`\`\`
 
 Now open your web browser and go to:
 
-\`\`\`
 http://localhost:3000
-\`\`\`
 
 You can now start using the **File2URL** application.
 
@@ -148,24 +138,17 @@ OTPs are valid for a limited time, providing a secure and efficient login proces
 We welcome contributions to make **File2URL** even better! Here's how you can get involved:
 
 1. **Fork the repository** to your own GitHub account:
-   \`\`\`bash
    git fork (https://github.com/AashishKumarSingh1/File2Url)
-   \`\`\`
 
 2. **Create a new branch** for your feature:
-   \`\`\`bash
    git checkout -b feature/your-feature
-   \`\`\`
 
 3. **Make your changes** and commit them:
-   \`\`\`bash
    git commit -am 'Add new feature'
-   \`\`\`
 
 4. **Push the changes** to your forked repository:
-   \`\`\`bash
    git push origin feature/your-feature
-   \`\`\`
+
 
 5. **Create a pull request** to the main repository from your branch.
 
